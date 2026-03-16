@@ -2,6 +2,9 @@
 
 REST + Socket.io backend for a multi-room chat app: auth, rooms, real-time messaging, file sharing, and user presence.
 
+- [Express chat API](https://express-realtime-chat-production.up.railway.app)
+- [React chat app](https://v0-react-chat-app-seven.vercel.app)
+
 ---
 
 ## Features
