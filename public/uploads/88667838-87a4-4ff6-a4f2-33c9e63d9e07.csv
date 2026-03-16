@@ -1,0 +1,26 @@
+Employee Name,Leave Type,Leave Taken,Leave Balance,Total Leave,Carried Forward
+Test user 72,Sick Leave,0.5,15.5,16,0
+Test user 72,Casual Leave,1.5,10.5,12,0
+Test user 72,Emergency leave,0.5,17.5,18,0
+Test user 72,Dev Test Policy 3,1,4,5,0
+Afrina Zahan tes merp1000,Sick Leave,0,5.04,5.04,0
+Afrina Zahan tes merp1000,Casual Leave,0,13,13,0
+Afrina Zahan tes merp1000,Emergency leave,0.5,6.5,7,0
+Afrina Zahan tes merp1000,Dev Test Policy 3,0,20,20,0
+Test User 50,Sick Leave,0,20,20,0
+Test User 50,Casual Leave,0.5,4.5,5,0
+Test User 50,Emergency leave,1.5,10.5,12,0
+Test User 50,Dev Test Policy 3,3.5,6.5,10,0
+Test User 4,Sick Leave,2,18,20,0
+Test User 4,Casual Leave,0,11,11,0
+Test User 4,Emergency leave,0.5,19.5,20,0
+Test User 4,Marriage leave,0.5,3.5,4,0
+Test User 4,Test leave 2,0,20,20,0
+Test User 3,Sick Leave,1,20,21,0
+Test User 3,Casual Leave,0,12,12,0
+Test User 3,Emergency leave,1,19,20,0
+Test User 3,Test leave 2,0,20,20,0
+Test MerpXMpeople,Casual Leave,9,-6.32,2.68,0
+Test MerpXMpeople,Emergency leave,0,5.37,5.37,0
+Test MerpXMpeople,Marriage leave,0,3,3,0
+Test MerpXMpeople,neww,0,22,22,0
