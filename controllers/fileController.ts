@@ -49,11 +49,8 @@ export const uploadFile = async (
     }
 
     const { filename, originalname, mimetype, size } = req.file;
-    console.log(env.PUBLIC_API_URL);
-    const pathSegment = `/uploads/${filename}`;
-    const fileUrl = env.PUBLIC_API_URL
-      ? `${env.PUBLIC_API_URL.replace(/\/$/, '')}${pathSegment}`
-      : pathSegment;
+    const fileUrl = `/uploads/${filename}`;
+    
 
     const fileRecord = await prisma.file.create({
       data: {
